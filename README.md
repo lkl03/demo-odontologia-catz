@@ -1,2 +1,7 @@
-# demo-odontologia-catz
-Demo web para Odontologia Catz — diseñada por eterlab.
+# Odontologia Catz
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
